@@ -8,3 +8,5 @@ A couple of materials to start with...
 
 Some inspirational websites:
 * [ClimateView](https://app.climateview.global/public/board/48023530-bb99-4a82-a00e-c9e7aad71f5d)
+
+And an internal [GDrive](https://drive.google.com/drive/u/0/folders/14GPCgcY2qV7oK-i6irpM7fBxHOwzgR_z) to work with.
