@@ -1,6 +1,6 @@
 # 🥦 NetZeroCities
 
-<img src="misc/gif-mockup.gif" alt="mockup" width="1000" height="563">
+<img src="misc/gif-mockup.gif" alt="mockup" width="700" height="394">
 
 Welcome to the NetZeroCities (NZC) Project. Lined up in the European Commision, NZC is part of "Climate-Neutral and Smart Cities", 1 of the 4 Missions held to transform cities.
 
